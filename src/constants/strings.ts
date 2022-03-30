@@ -1,4 +1,4 @@
-export const GAME_TITLE = 'Slovenske wordle! Zmenené 2:)'
+export const GAME_TITLE = 'Slovenske wordle! Verzia 3)'
 
 export const WIN_MESSAGES = ['Great Job!', 'Awesome', 'Well done!']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
